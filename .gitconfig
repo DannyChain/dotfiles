@@ -1,0 +1,18 @@
+[user]
+    name = DannyChain
+    email = thedannychain@gmail.com
+	signingKey = 3579364D2FBE708590A650B215F278C4FF1C5AA8
+[core]
+    editor = nano
+    excludesfile = ~/.gitignore_global
+[pull]
+    rebase = true
+[branch]
+    autosetuprebase = always
+    sort = -committerdate
+[push]
+    default = current
+[init]
+	defaultBranch = main
+[commit]
+	gpgSign = true
