@@ -1,0 +1,6 @@
+[submodule "tty"]
+	path = tty
+	url = https://github.com/dracula/tty.git
+[submodule ".config/tty"]
+	path = .config/tty
+	url = https://github.com/dracula/tty.git
